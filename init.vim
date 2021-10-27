@@ -24,6 +24,7 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'jiangmiao/auto-pairs'
 Plug 'easymotion/vim-easymotion'
 Plug 'honza/vim-snippets'
+Plug 'scrooloose/nerdcommenter'
 
 
 Plug 'ryanoasis/vim-devicons'

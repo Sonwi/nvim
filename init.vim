@@ -25,7 +25,8 @@ Plug 'jiangmiao/auto-pairs'
 Plug 'easymotion/vim-easymotion'
 Plug 'honza/vim-snippets'
 Plug 'scrooloose/nerdcommenter'
-
+" git
+Plug 'airblade/vim-gitgutter'
 
 Plug 'ryanoasis/vim-devicons'
 

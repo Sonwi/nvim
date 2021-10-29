@@ -1,6 +1,11 @@
 " Key Remapping
 imap jj <Esc>
 
+nnoremap L $
+nnoremap H ^
+onoremap L $
+onoremap H ^
+
 let mapleader =' '
 set encoding=UTF-8
 

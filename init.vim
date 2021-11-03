@@ -29,6 +29,11 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'jiangmiao/auto-pairs'
 Plug 'easymotion/vim-easymotion'
 Plug 'honza/vim-snippets'
+" [count]<leader>cc 注释多行
+" [count]<leader>cu 取消注释
+" [count]<leader>ci 状态反转 **
+" <leader>c$ 注释直到行尾
+" <leader>cA 末尾添加注释	 **
 Plug 'scrooloose/nerdcommenter'
 " git
 Plug 'airblade/vim-gitgutter'

@@ -44,7 +44,7 @@
 	"diagnostic.refreshOnInsertMode": false,
 	"diagnostic.checkCurrentLine": false,
 	"diagnostic.virtualTextPrefix": " ❯❯❯ ",
-	"diagnostic.virtualText": true,
+	"diagnostic.virtualText": false,
 	"diagnostic.virtualTextCurrentLineOnly": true,
 	"diagnostic-languageserver.filetypes": {
 		"vim": "vint",
@@ -58,6 +58,6 @@
 	"diagnostic-languageserver.formatFiletypes": {
 		"elixir": "mix_format",
 		"eelixir": "mix_format"
-	},
-	"snippets.userSnippetsDirectory": "/home/sonwi/.snippets"
+  },
+  "clangd.path": "~/.config/coc/extensions/coc-clangd-data/install/13.0.0/clangd_13.0.0/bin/clangd"
 }

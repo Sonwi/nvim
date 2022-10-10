@@ -40,7 +40,7 @@ Plug 'airblade/vim-gitgutter'
 
 Plug 'ryanoasis/vim-devicons'
 
-Plug 'keith/swift.vim'
+" Plug 'keith/swift.vim'
 
 call plug#end()
 
